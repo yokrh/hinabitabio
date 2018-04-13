@@ -1,0 +1,11 @@
+{
+  "name": "hinabita",
+  "version": "1.0.0",
+  "description": "日向美ビタースイーツ♪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoshitake-okada",
+  "license": "ISC"
+}
