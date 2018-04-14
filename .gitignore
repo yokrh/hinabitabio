@@ -6,3 +6,4 @@
 *.zip
 *.swp
 .DS_Store
+/bin/**/*.json
