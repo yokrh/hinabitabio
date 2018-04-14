@@ -1,5 +1,8 @@
 import './style/app.css';
 import './favicon.ico'
+import './image/marika_1.png'
+import './serviceworker.js'
+import './manifest.json'
 
 import Vue from 'Vue'
 import VueRouter from 'vue-router'

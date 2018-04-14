@@ -1,0 +1,17 @@
+{
+  "name" : "ひなビタ♪BIOGRAPHY検索",
+  "short_name" : "ひなビタ♪bio",
+  "description" : "日向美ビタースイーツ♪のFacebookの内容を表示した非公式サイトです。公式のバイオグラフィーをモデルに、2012年11月から2018年4月のブログを読めます。",
+  "start_url" : "/",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "background_color" : "#621117",
+  "theme_color" : "#621117",
+  "icons": [
+		{
+      "src" : "/img/marika_1.png",
+      "sizes" : "200x200",
+      "type" : "image/png"
+    }
+	]
+}
