@@ -1,7 +1,7 @@
 {
-  "name" : "ひなビタ♪BIOGRAPHY検索",
+  "name" : "ひなビタ♪BIOGRAPHY保管屋",
   "short_name" : "ひなビタ♪bio",
-  "description" : "日向美ビタースイーツ♪のFacebookの内容を表示した非公式サイトです。公式のバイオグラフィーをモデルに、2012年11月から2018年4月のブログを読めます。",
+  "description" : "このサイトは、日向美ビタースイーツ♪のFacebookの内容を公式サイトのBIOGRAPHY風に表示した非公式サイトです。2012年11月から2018年4月のブログを読めますが、内容が一部異なる可能性があります。詳細は公式サイトをご覧ください。",
   "start_url" : "/",
   "display" : "standalone",
   "orientation" : "portrait",

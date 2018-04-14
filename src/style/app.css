@@ -46,6 +46,6 @@ border-collapse: collapse;
 border-spacing: 0;
 }
 
-dl, ul, ol {
+div, dl, ul, ol {
   font-size: 0;
 }
