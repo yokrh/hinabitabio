@@ -22,7 +22,7 @@
         <li class="post" v-for="p in posts" :key="p.time" style="padding-bottom:60px;">
           <dl :style="{ 'padding':'12px 4%', 'background-color':p.character.color, 'color':'#450c10', 'border-radius':'0 8px 0 8px' }">
             <dt style="height:32px; line-height:32px; padding-top:40px; font-size:20px; position:relative;">
-              <div :style="{ 'position':'absolute', 'top':0, 'left':0, 'text-align':'center', 'border-radius':'50%', 'border':`2px solid ${p.character.color}`, 'background-color':'#FFF','width':'100px','height':'100px'}">
+              <div :style="{ 'position':'absolute', 'top':0, 'left':0, 'text-align':'center', 'border-radius':'50%', 'border':`2px solid ${p.character.color}`, 'background-color':'#FFF','width':'90px','height':'90px'}">
                 <img :src="p.character.image" :alt="p.character.face" width="100%" height="100%" style="border-radius:50%; font-size:14px; line-height:100px;">
               </div>
               <span :style="{ 'padding':'0 16px 0 120px', 'color':p.character.color2, 'font-size':'18px'}">FROM</span>
