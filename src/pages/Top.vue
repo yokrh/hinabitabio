@@ -54,10 +54,13 @@
           <router-link :to="{ name: 'Page', params: { page: p }}" v-else style="color:#ffac4a;">{{ p + 1 }}</router-link>
         </li>
         <li style="padding: 4px;">
-          <router-link :to="{ name: 'Page', params: { page: 100 }}" style="color:#ffac4a;">>>100</router-link>
+          <router-link :to="{ name: 'Page', params: { page: 41 }}" style="color:#ffac4a;">>>シーズン2</router-link>
         </li>
         <li style="padding: 4px;">
-          <router-link :to="{ name: 'Page', params: { page: 200 }}" style="color:#ffac4a;">>>200</router-link>
+          <router-link :to="{ name: 'Page', params: { page: 76 }}" style="color:#ffac4a;">>>シーズン3</router-link>
+        </li>
+        <li style="padding: 4px;">
+          <router-link :to="{ name: 'Page', params: { page: 143 }}" style="color:#ffac4a;">>>シーズン4〜</router-link>
         </li>
         <li v-if="page !== total-1" style="padding: 4px;">
             <router-link :to="{ name: 'Page', params: { page: page+1 }}" style="color:#ffac4a;">次へ</router-link>
